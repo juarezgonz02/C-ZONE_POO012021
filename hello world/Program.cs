@@ -14,12 +14,12 @@ namespace hello_world
             Console.WriteLine("Enter a value for b: ");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Adding {a} + {b} equals {addNumbers(a, b)}");
+            Console.WriteLine($"Adding {a} * {b} equals {addNumbers(a, b)}");
             Console.WriteLine("WAITTT!! WHAT??");
         }
 
         static int addNumbers(int a, int b){
-            return (a - b);
+            return (a * b);
 
         }
     }

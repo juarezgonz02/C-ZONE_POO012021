@@ -18,7 +18,7 @@ namespace hello_world
         }
 
         static int addNumbers(int a, int b){
-            return (a + b);
+            return (a - b);
         }
     }
 }

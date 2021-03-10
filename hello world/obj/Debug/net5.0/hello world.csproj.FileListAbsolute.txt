@@ -1,0 +1,16 @@
+c:\Users\oscar\Documents\GitHub\C-ZONE_POO012021\hello world\bin\Debug\net5.0\hello world.exe
+c:\Users\oscar\Documents\GitHub\C-ZONE_POO012021\hello world\bin\Debug\net5.0\hello world.deps.json
+c:\Users\oscar\Documents\GitHub\C-ZONE_POO012021\hello world\bin\Debug\net5.0\hello world.runtimeconfig.json
+c:\Users\oscar\Documents\GitHub\C-ZONE_POO012021\hello world\bin\Debug\net5.0\hello world.runtimeconfig.dev.json
+c:\Users\oscar\Documents\GitHub\C-ZONE_POO012021\hello world\bin\Debug\net5.0\hello world.dll
+c:\Users\oscar\Documents\GitHub\C-ZONE_POO012021\hello world\bin\Debug\net5.0\ref\hello world.dll
+c:\Users\oscar\Documents\GitHub\C-ZONE_POO012021\hello world\bin\Debug\net5.0\hello world.pdb
+c:\Users\oscar\Documents\GitHub\C-ZONE_POO012021\hello world\obj\Debug\net5.0\hello world.csprojAssemblyReference.cache
+c:\Users\oscar\Documents\GitHub\C-ZONE_POO012021\hello world\obj\Debug\net5.0\hello world.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\oscar\Documents\GitHub\C-ZONE_POO012021\hello world\obj\Debug\net5.0\hello world.AssemblyInfoInputs.cache
+c:\Users\oscar\Documents\GitHub\C-ZONE_POO012021\hello world\obj\Debug\net5.0\hello world.AssemblyInfo.cs
+c:\Users\oscar\Documents\GitHub\C-ZONE_POO012021\hello world\obj\Debug\net5.0\hello world.csproj.CoreCompileInputs.cache
+c:\Users\oscar\Documents\GitHub\C-ZONE_POO012021\hello world\obj\Debug\net5.0\hello world.dll
+c:\Users\oscar\Documents\GitHub\C-ZONE_POO012021\hello world\obj\Debug\net5.0\ref\hello world.dll
+c:\Users\oscar\Documents\GitHub\C-ZONE_POO012021\hello world\obj\Debug\net5.0\hello world.pdb
+c:\Users\oscar\Documents\GitHub\C-ZONE_POO012021\hello world\obj\Debug\net5.0\hello world.genruntimeconfig.cache
